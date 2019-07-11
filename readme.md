@@ -23,6 +23,11 @@ Bits an bobs in one place.
 
 * [GSAP](http://greensock.com/)
 
+## Audio
+
+* [AAC encode](./cli/ffmpeg.md#aac-encode)
+* [Loudness (LUFS)](./cli/ffmpeg.md#loudness-lufs)
+
 ## Video encoding
 
 * [Webm](./cli/ffmpeg.md)
